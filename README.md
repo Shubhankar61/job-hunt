@@ -26,12 +26,9 @@ To get started with JOB-hunt, follow these steps:
 2. Open the project directory in your preferred code editor.
 3. Install any necessary dependencies.
 4. Launch the application and start exploring job opportunities in Japan!
-..
-Or
-..
-Access the webpage live at: https://shubhankar61.github.io/job-hunt/
 
 ## Usage
+  - Access the webpage live at: https://shubhankar61.github.io/job-hunt/
 
 1. Upon accessing the application, users can toggle between English and Japanese languages using the language switch feature.
 2. Navigate to the job search page to browse available job listings in Japan.
